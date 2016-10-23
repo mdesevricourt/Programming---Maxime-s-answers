@@ -11,3 +11,10 @@ be afraid to help your classmates! Thanks for participating and see you Friday.
 2016.10.03 - HW4 - Nice job Maxime, yours was one of only a handful of complete
 solutions. I might point out though that return(print()) is a bit redundant.
 Other than that, really nice work.
+
+2016.10.25 - HW5 - Great job Maxime. Just a thought (not a criticism,
+             just in case you didn't think about it) you should start
+             trying to avoid using loops, despite all the loops we
+             used the first half of the semester. For example you can create
+             a random vector of ones and zeros using sample and then convert
+             it to heads and tails. A good thing to practice in the future!
