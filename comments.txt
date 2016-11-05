@@ -18,3 +18,11 @@ Other than that, really nice work.
              used the first half of the semester. For example you can create
              a random vector of ones and zeros using sample and then convert
              it to heads and tails. A good thing to practice in the future!
+
+2016.11.05 - HW7 and HW8 - Interesting choice of airplane crash data (this
+             was too scary for me). I won't be going to Brazil any time soon,
+             but you might look again at Korea. During the 90s Korean flights
+             were almost barred from entering the US because they crashed so
+             often and it was driven by a bizarre thing in their language.
+             A pretty interesting example of something that wouldn't show up
+             in the data!
